@@ -1,0 +1,6 @@
+{
+  "name": "Folio - Notebooks & Notes Catalog",
+  "description": "A comprehensive notebook catalog and rich notes editor featuring multi-notebook organization, structured page indexing, visual & markdown editing, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
